@@ -27,16 +27,6 @@ Horizontal (Yaw): ±32°
 
 Vertical (Pitch): ±18°
 
-Lighting Condition: Infrared illumination for robustness across varying lighting environments
-
-Hardware Used:
-
-Industrial CMOS sensor camera
-
-Infrared pass filter & IR lighting setup
-
-Screen-based target fixation system
-
 ## Benchmark & Performance
 
 The Gaze-Raw dataset was tested on multiple state-of-the-art gaze estimation models. Using our proposed MAFN (Multibit Attention Fusion Network), we achieved a state-of-the-art angular error of 2.17° on our dataset.
