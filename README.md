@@ -1,13 +1,13 @@
 # Gaze-Raw-Dataset
 A High-Resolution 12-bit RAW Dataset for Gaze Estimation
 
-Introduction
+## Introduction
 
 The Gaze-Raw Dataset is a novel gaze estimation dataset that captures high-resolution 12-bit RAW images directly from CMOS image sensors, eliminating the need for an Image Signal Processor (ISP). This dataset is specifically designed for deep learning-based gaze estimation, providing a high-fidelity representation of eye movement data.
 
 Unlike traditional RGB-based datasets, Gaze-Raw retains full-bit-depth information, ensuring a more accurate estimation of gaze direction. It is intended for research in computer vision, human-computer interaction (HCI), and gaze-based assistive technologies.
 
-Dataset Features
+## Dataset Features
 
 Total Images: 11,189
 
@@ -39,12 +39,9 @@ Infrared pass filter & IR lighting setup
 
 Screen-based target fixation system
 
-Benchmark & Performance
+## Benchmark & Performance
+
 The Gaze-Raw dataset was tested on multiple state-of-the-art gaze estimation models. Using our proposed MAFN (Multibit Attention Fusion Network), we achieved a state-of-the-art angular error of 2.17° on our dataset.
-
-Comparison with existing datasets:
-
-## Comparison with Existing Datasets
 
 ## Comparison with Existing Datasets
 
