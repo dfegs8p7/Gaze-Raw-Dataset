@@ -17,8 +17,6 @@ Image Format: 12-bit RAW
 
 Resolution:
 
-Full-face images: 1920 × 1080
-
 Cropped eye images: 160 × 96
 
 Gaze Labeling: Each image is annotated with 2D gaze angles (Pitch, Yaw)
